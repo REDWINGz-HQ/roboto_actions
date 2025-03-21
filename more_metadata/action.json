@@ -1,0 +1,9 @@
+{
+    "name": "more_metadata",
+    "description": "display page",
+    "compute_requirements": {
+        "vCPU": 512,
+        "memory": 1024,
+        "storage": 21
+    }
+}

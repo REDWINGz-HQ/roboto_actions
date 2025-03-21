@@ -1,0 +1,9 @@
+{
+    "name": "tag_console_ulog",
+    "description": "Turn console log level into tags",
+    "compute_requirements": {
+        "vCPU": 512,
+        "memory": 1024,
+        "storage": 21
+    }
+}
